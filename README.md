@@ -1,6 +1,6 @@
 # AI-heroku
 
-**若需部署 iRay VLESS，请转到 [vless](https://github.com/Hardbroke/AIray-heroku/tree/vless) 分支。**
+**若需部署 AIRay VLESS，请转到 [vless](https://github.com/Hardbroke/AIray-heroku/tree/vless) 分支。**
 
 ## 概述
 
@@ -12,7 +12,7 @@
 
 ### 步骤
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Hardbroke/iray-heroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Hardbroke/AIray-heroku)
 
  回到专案首页，点击上面的链接以部署 AIRay
 
