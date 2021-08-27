@@ -1,6 +1,6 @@
 # AI-heroku
 
-**若需部署 AIRay VLESS，请转到 [vless](https://github.com/Hardbroke/AIray-heroku/tree/vless) 分支。**
+**若需部署 AIRay VLESS，请转到 [vless](https://github.com/Hardbroke/AI-heroku-vless) 。**
 
 ## 概述
 
